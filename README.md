@@ -1,3 +1,5 @@
+Most of this was pulled from the [AuthKit Next.js example](https://github.com/workos-inc/authkit-nextjs-example) and modified to work with Storybook and module mocking.
+
 # Next.js integration example using AuthKit
 
 An example application demonstrating how to authenticate users with AuthKit and the WorkOS Node SDK.
